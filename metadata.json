@@ -1,0 +1,6 @@
+{
+  "name": "Agetrave — Curated Global Journeys",
+  "description": "Minimalist travel agency featuring bespoke journeys to Paris, Switzerland, Hawaii, and Japan with transparent budget-friendly packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
